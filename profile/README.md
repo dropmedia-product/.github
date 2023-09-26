@@ -1,5 +1,3 @@
-                                        ![logoHorizontalDropmedia](https://github.com/dropmedia-site/.github/assets/79592962/0eb8a735-eb7b-4fc3-8e7c-cf8352d0a66f)
-
 # Welcome to Dropmedia!
 
 Hello and welcome to our official GitHub repository! At Dropmedia, we are committed to delivering state-of-the-art technology solutions, merging architecture and engineering for unparalleled results. Dive into our projects to experience the forefront of innovation in the tech world.
