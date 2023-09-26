@@ -1,4 +1,4 @@
-![logoHorizontalDropmedia](https://github.com/dropmedia-site/.github/assets/79592962/0eb8a735-eb7b-4fc3-8e7c-cf8352d0a66f)
+                                        ![logoHorizontalDropmedia](https://github.com/dropmedia-site/.github/assets/79592962/0eb8a735-eb7b-4fc3-8e7c-cf8352d0a66f)
 
 # Welcome to Dropmedia!
 
